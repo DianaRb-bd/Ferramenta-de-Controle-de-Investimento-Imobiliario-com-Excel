@@ -6,13 +6,9 @@ Desenvolver uma ferramenta no Microsoft Excel para simular a evolução de inves
 
 💰 A planilha demonstra como os aportes mensais e os rendimentos hipotéticos podem influenciar os resultados em diferentes períodos.
 
-## 🛠️ Ferramentas Utilizadas
+## 🛠️ Ferramenta Utilizada
 
 - 📗 Microsoft Excel
-- 🧮 Fórmulas financeiras
-- 📈 Juros compostos
-- 📊 Gráficos para visualização e comparação de cenários
-- 🔎 Análise e organização de dados
 
 ## ⚙️ O Que Foi Desenvolvido
 
@@ -27,15 +23,6 @@ A planilha permite comparar a evolução do patrimônio em diferentes períodos,
 - 👤 **Perfil de investidor:** distribuição do aporte mensal utilizando a função PROCV e uma tabela de apoio.
 - 📊 **Visualização de dados:** criação de tabelas e gráficos para comparar os cenários e facilitar a interpretação dos resultados.
 
-## 🧠 Aprendizados
-
-O desenvolvimento deste projeto proporcionou a prática de diferentes recursos do Excel, incluindo:
-
-- 🧮 Aplicação de fórmulas financeiras.
-- 📋 Organização e estruturação de dados.
-- 📈 Construção de gráficos para visualização de resultados.
-- 🔍 Comparação e interpretação de cenários.
-- 💡 Transformação de cálculos em informações visuais para facilitar a análise.
 
 ## ⚠️ Observação
 
@@ -44,9 +31,7 @@ As taxas e os resultados apresentados são hipotéticos e têm finalidade exclus
 ## 📂 Arquivos do Repositório
 
 - 📗 **Planilha Excel:** ferramenta de simulação contendo fórmulas, tabelas e gráficos.
-- 🖼️ **Imagens:** capturas de tela que demonstram o funcionamento da ferramenta e os resultados obtidos.
 - 📄 **README.md:** documentação com a descrição, os objetivos e as funcionalidades do projeto.
 
 ---
 
-📚 *Projeto desenvolvido para praticar Excel, cálculos financeiros, análise de cenários e visualização de dados.*
